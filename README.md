@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HowtryX
 - 👀 I’m interested in OST's and the moon, yes the moon!
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning C/C++ and Python
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I'm starter now
 
